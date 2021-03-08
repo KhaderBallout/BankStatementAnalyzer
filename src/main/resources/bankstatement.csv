@@ -1,0 +1,14 @@
+DATE,DESCRIPTION,CHARGES,CREDITS,AccountBalance
+InitialBalance,,,,$56.00
+05/12/04,ThePhoneCompany,$500.00,,$556.00
+05/13/04,WoodgroveBank,,$250.00,$306.00
+05/14/04,CityPower&Light,$125.00,$250.00,$181.00
+05/15/04,ThePhoneCompany,$500.00,$250.00,$431.00
+05/16/04,WoodgroveBank,,$250.00,$181.00
+05/17/04,CityPower&Light,$125.00,$250.00,$56.00
+05/18/04,ThePhoneCompany,$500.00,$250.00,$306.00
+05/19/04,WoodgroveBank,,$250.00,$56.00
+05/20/04,CityPower&Light,$125.00,$250.00,-$69.00
+05/21/04,ThePhoneCompany,$500.00,$250.00,$181.00
+05/22/04,WoodgroveBank,,$250.00,-$69.00
+05/23/04,CityPower&Light,$125.00,$250.00,-$194.00
