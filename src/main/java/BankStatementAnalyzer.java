@@ -14,7 +14,7 @@ public class BankStatementAnalyzer {
 
 	public static void main(String[] args) throws FileNotFoundException {
 
-		String fileName = "C:/Users/Ramiz/OneDrive/Bethlehem University/current/SWER342 - Majed/Assignments/Assignment 1 - Maintainability/BankStatementAnalyzer/src/main/resources/bank.csv";
+		String fileName = "C:/Users/Ramiz/OneDrive/Bethlehem University/current/SWER342 - Majed/Assignments/Assignment 1 - Maintainability/BankStatementAnalyzer/src/main/resources/bankstatement.csv";
 		File file = new File(fileName);
 		Scanner s = new Scanner(file);
 		ArrayList<String[]> graph = new ArrayList<String[]>();
